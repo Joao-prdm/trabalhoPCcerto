@@ -1,0 +1,203 @@
+.frame {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1920px;
+    height: 1080px;
+    position: relative;
+  }
+  
+  .frame .overlap {
+    position: absolute;
+    width: 594px;
+    height: 377px;
+    top: 163px;
+    left: 143px;
+  }
+  
+  .frame .whatsapp-image {
+    position: absolute;
+    width: 325px;
+    height: 236px;
+    top: 141px;
+    left: 269px;
+    object-fit: cover;
+  }
+  
+  .frame .pngtree-comic-speech {
+    position: absolute;
+    width: 324px;
+    height: 324px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .frame .text-wrapper {
+    position: absolute;
+    width: 276px;
+    top: 115px;
+    left: 24px;
+    font-family: var(--header-3-font-family);
+    font-weight: var(--header-3-font-weight);
+    color: var(--light-slides-black);
+    font-size: var(--header-3-font-size);
+    text-align: center;
+    letter-spacing: var(--header-3-letter-spacing);
+    line-height: var(--header-3-line-height);
+    font-style: var(--header-3-font-style);
+  }
+  
+  .frame .arrow {
+    top: 423px;
+    left: 858px;
+    position: absolute;
+    width: 168px;
+    height: 29px;
+  }
+  
+  .frame .o-fatorial-de-um {
+    position: absolute;
+    width: 653px;
+    height: 411px;
+    top: 322px;
+    left: 1917px;
+  }
+  
+  .frame .overlap-group {
+    position: absolute;
+    width: 895px;
+    height: 476px;
+    top: 672px;
+    left: 940px;
+  }
+  
+  .frame .img {
+    position: absolute;
+    width: 325px;
+    height: 236px;
+    top: 140px;
+    left: 309px;
+    object-fit: cover;
+  }
+  
+  .frame .pngtree-comic-speech-2 {
+    position: absolute;
+    width: 280px;
+    height: 280px;
+    top: 0;
+    left: 615px;
+    object-fit: cover;
+  }
+  
+  .frame .text-wrapper-2 {
+    position: absolute;
+    width: 244px;
+    top: 62px;
+    left: 634px;
+    font-family: var(--header-3-font-family);
+    font-weight: var(--header-3-font-weight);
+    color: var(--light-slides-black);
+    font-size: var(--header-3-font-size);
+    text-align: center;
+    letter-spacing: var(--header-3-letter-spacing);
+    line-height: var(--header-3-line-height);
+    font-style: var(--header-3-font-style);
+  }
+  
+  .frame .arrow-2 {
+    top: 243px;
+    left: 61px;
+    position: absolute;
+    width: 168px;
+    height: 29px;
+  }
+  
+  .frame .propriedade {
+    position: absolute;
+    width: 706px;
+    height: 450px;
+    top: 26px;
+    left: 0;
+  }
+  
+  .frame .overlap-2 {
+    position: absolute;
+    width: 1920px;
+    height: 189px;
+    top: 41px;
+    left: 773px;
+  }
+  
+  .frame .shape-with-text {
+    position: absolute;
+    width: 1920px;
+    height: 140px;
+    top: 49px;
+    left: 0;
+  }
+  
+  .frame .exerccios-wrapper {
+    width: 204px;
+    left: 922px;
+    position: absolute;
+    height: 66px;
+    top: 0;
+  }
+  
+  .frame .exerccios {
+    position: absolute;
+    width: 204px;
+    height: 66px;
+    top: 49px;
+    left: -922px;
+  }
+  
+  .frame .explicao {
+    position: absolute;
+    width: 204px;
+    height: 66px;
+    top: 90px;
+    left: 1449px;
+  }
+  
+  .frame .introduo-wrapper {
+    width: 203px;
+    left: 428px;
+    position: absolute;
+    height: 66px;
+    top: 0;
+  }
+  
+  .frame .introduo {
+    position: absolute;
+    width: 203px;
+    height: 66px;
+    top: 49px;
+    left: -428px;
+  }
+  
+  .frame .matemtica-com-neri {
+    position: absolute;
+    width: 439px;
+    height: 118px;
+    top: 50px;
+    left: 109px;
+  }
+  
+  .frame .pi-transparent {
+    position: absolute;
+    width: 92px;
+    height: 91px;
+    top: 19px;
+    left: 16px;
+    object-fit: cover;
+  }
+  

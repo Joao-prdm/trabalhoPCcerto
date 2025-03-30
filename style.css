@@ -1,0 +1,131 @@
+.frame {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1920px;
+    height: 1080px;
+    position: relative;
+  }
+  
+  .frame .overlap-group {
+    position: absolute;
+    width: 1920px;
+    height: 142px;
+    top: -450px;
+    left: -1832px;
+    background-image: url(./img/shape-with-text.svg);
+    background-size: 100% 100%;
+  }
+  
+  .frame .div-2 {
+    position: absolute;
+    width: 203px;
+    height: 69px;
+    top: 0;
+    left: 0;
+    background-image: url(./img/introdu-o.svg);
+    background-size: 100% 100%;
+  }
+  
+  .frame .div-3 {
+    position: absolute;
+    width: 203px;
+    height: 69px;
+    top: 0;
+    left: 0;
+    background-image: url(./img/explica-o.svg);
+    background-size: 100% 100%;
+  }
+  
+  .frame .div-4 {
+    position: absolute;
+    width: 202px;
+    height: 69px;
+    top: 0;
+    left: 0;
+    background-image: url(./img/.professor-neri);
+    background-size: 100% 100%;
+  }
+  
+  .frame .matemtica-com-neri {
+    position: absolute;
+    width: 409px;
+    height: 133px;
+    top: 0;
+    left: 128px;
+  }
+  
+  .frame .pi-transparent {
+    position: absolute;
+    width: 92px;
+    height: 92px;
+    top: 34px;
+    left: 35px;
+    object-fit: cover;
+  }
+  
+  .frame .shape-with-text {
+    position: absolute;
+    width: 739px;
+    height: 473px;
+    top: -198px;
+    left: -1631px;
+    object-fit: cover;
+  }
+  
+  .frame .professor-neri {
+    position: absolute;
+    width: 739px;
+    height: 76px;
+    top: 275px;
+    left: -1631px;
+  }
+  
+  .frame .o-que-voc-vai {
+    position: absolute;
+    width: 737px;
+    height: 551px;
+    top: -200px;
+    left: -721px;
+  }
+  
+  .frame .para-dvidas {
+    position: absolute;
+    width: 343px;
+    height: 164px;
+    top: 422px;
+    left: -1285px;
+  }
+  
+  .frame .div-5 {
+    position: absolute;
+    width: 629px;
+    height: 165px;
+    top: 871px;
+    left: 890px;
+  }
+  
+  .frame .instagram {
+    position: absolute;
+    width: 165px;
+    height: 165px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .frame .mateusneri {
+    position: absolute;
+    width: 465px;
+    height: 164px;
+    top: -1320px;
+    left: -2558px;
+  }
+  

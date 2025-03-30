@@ -1,0 +1,162 @@
+.frame {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .div {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #ffffff;
+    overflow-x: hidden;
+    width: 1920px;
+    height: 1080px;
+    position: relative;
+  }
+  
+  .frame .overlap {
+    position: absolute;
+    width: 1920px;
+    height: 457px;
+    top: -1429px;
+    left: 576px;
+  }
+  
+  .frame .overlap-group {
+    position: absolute;
+    width: 1920px;
+    height: 291px;
+    top: 0;
+    left: 0;
+  }
+  
+  .frame .shape-with-text {
+    position: absolute;
+    width: 1920px;
+    height: 128px;
+    top: 0;
+    left: 0;
+  }
+  
+  .frame .exerccios {
+    position: absolute;
+    width: 204px;
+    height: 70px;
+    top: 19px;
+    left: 1700px;
+  }
+  
+  .frame .div-2 {
+    width: 204px;
+    height: 70px;
+    background-image: url(./img/explica-o.svg);
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-size: 100% 100%;
+  }
+  
+  .frame .div-3 {
+    width: 204px;
+    height: 70px;
+    background-image: url(./img/introdu-o.svg);
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-size: 100% 100%;
+  }
+  
+  .frame .div-4 {
+    width: 477px;
+    height: 291px;
+    background-image: url(./img/resultados.svg);
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-size: 100% 100%;
+  }
+  
+  .frame .matemtica-com-neri {
+    position: absolute;
+    width: 440px;
+    height: 125px;
+    top: 3px;
+    left: 115px;
+  }
+  
+  .frame .calcule-o-fatorial {
+    position: absolute;
+    width: 489px;
+    height: 277px;
+    top: 179px;
+    left: 763px;
+  }
+  
+  .frame .resolva-as-divises {
+    position: absolute;
+    width: 491px;
+    height: 277px;
+    top: 180px;
+    left: 1403px;
+  }
+  
+  .frame .pi-transparent {
+    position: absolute;
+    width: 94px;
+    height: 95px;
+    top: 16px;
+    left: 17px;
+    object-fit: cover;
+  }
+  
+  .frame .overlap-group-2 {
+    position: absolute;
+    width: 519px;
+    height: 576px;
+    top: 223px;
+    left: 151px;
+  }
+  
+  .frame .whatsapp-image {
+    position: absolute;
+    width: 384px;
+    height: 385px;
+    top: 191px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .frame .pngtree-comic-speech {
+    position: absolute;
+    width: 335px;
+    height: 335px;
+    top: 0;
+    left: 184px;
+    object-fit: cover;
+  }
+  
+  .frame .pratique-com-exerc {
+    position: absolute;
+    width: 232px;
+    top: 105px;
+    left: 235px;
+    font-family: var(--header-3-font-family);
+    font-weight: var(--header-3-font-weight);
+    color: var(--light-slides-black);
+    font-size: var(--header-3-font-size);
+    text-align: center;
+    letter-spacing: var(--header-3-letter-spacing);
+    line-height: var(--header-3-line-height);
+    font-style: var(--header-3-font-style);
+  }
+  
+  .frame .resolva-as {
+    position: absolute;
+    width: 489px;
+    height: 293px;
+    top: -891px;
+    left: 1339px;
+  }
+  
